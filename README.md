@@ -10,7 +10,6 @@ This mod is a lightweight alternative to HomeDecor and MoreBlocks.
 This mod requires at least version 5.1 of Minetest.
 
 ### Credits ###
-
 Special thanks to Gambit for the textures from the PixelBOX pack for Minetest.
 Thanks to all contributors who keep this mod alive.
 
