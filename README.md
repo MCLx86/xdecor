@@ -1,7 +1,4 @@
 ## X(treem)Decor ##
-
-[![ContentDB](https://content.minetest.net/packages/jp/xdecor/shields/downloads/)](https://content.minetest.net/packages/jp/xdecor/)
-
 A decoration mod meant to be simple and well-featured.
 It adds a bunch of cute cubes, various mechanisms and stuff for [cutting](https://forum.minetest.net/viewtopic.php?f=11&t=14085), [enchanting](https://forum.minetest.net/viewtopic.php?f=11&t=14087), cooking, etc.
 This mod is a lightweight alternative to HomeDecor and MoreBlocks.
